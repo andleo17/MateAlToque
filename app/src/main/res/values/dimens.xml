@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="texto_subtitulo">20sp</dimen>
+    <dimen name="texto_vertical">10dp</dimen>
+    <dimen name="texto_horizontal">14dp</dimen>
+</resources>

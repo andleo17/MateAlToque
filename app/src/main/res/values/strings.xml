@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mate Al Toque</string>
+    <string name="algebra">Álgebra</string>
+    <string name="geometria">Geometría</string>
+    <string name="trigonometria">Trigonometría</string>
+    <string name="bases_matematicas">Bases Matemáticas</string>
+    <string name="fisicaI">Física I</string>
+    <string name="fisicaII">Física II</string>
+    <string name="quimica_inorganica">Química Inorgánica</string>
+    <string name="quimica_organica">Química Orgánica</string>
+    <string name="matematica_preu">Aprende lo básico:</string>
+    <string name="matematica_u">Entiende tu mundo:</string>
+</resources>
